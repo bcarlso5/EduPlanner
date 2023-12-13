@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">EduPlanner</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="profile">Profile</string>
+    <string name="home_page">Home Page</string>
+    <string-array name="taskTypes">
+        <item>Education</item>
+        <item>Business</item>
+        <item>Family</item>
+    </string-array>
 </resources>

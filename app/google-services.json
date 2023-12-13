@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143044840999",
+    "project_id": "eduplanner-ac92a",
+    "storage_bucket": "eduplanner-ac92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143044840999:android:d58073007262d224954802",
+        "android_client_info": {
+          "package_name": "com.example.eduplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEWqFxedullhwn-mtRobs5LONcMaT7LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
